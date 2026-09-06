@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "FloorTile",
+    "category": "architecture",
+    "url": "models/FloorTile.glb",
+    "dimensions": [
+      1.196,
+      0.11,
+      1.196
+    ],
+    "bounds": [
+      [
+        -0.598,
+        -0.11,
+        -0.598
+      ],
+      [
+        0.598,
+        0.0,
+        0.598
+      ]
+    ],
+    "triangles": 44,
+    "bytes": 2501252,
+    "sha256": "4270ba2009ca44ca1c444c8dd4048d600158b19a9ed6eb006d52aa96873da96d"
+  },
+  {
+    "id": "WallPanel",
+    "category": "architecture",
+    "url": "models/WallPanel.glb",
+    "dimensions": [
+      1.2,
+      3.2,
+      0.24
+    ],
+    "bounds": [
+      [
+        -0.6,
+        0.0,
+        -0.1
+      ],
+      [
+        0.6,
+        3.2,
+        0.14
+      ]
+    ],
+    "triangles": 176,
+    "bytes": 460828,
+    "sha256": "01cfc95c9df258837af70cda33582fc9f63fc5b9f104e736cb26d6a39c01def4"
+  },
+  {
+    "id": "StructuralColumn",
+    "category": "architecture",
+    "url": "models/StructuralColumn.glb",
+    "dimensions": [
+      0.3,
+      3.2,
+      0.303
+    ],
+    "bounds": [
+      [
+        -0.15,
+        0.0,
+        -0.15
+      ],
+      [
+        0.15,
+        3.2,
+        0.153
+      ]
+    ],
+    "triangles": 176,
+    "bytes": 460848,
+    "sha256": "b1c2706a63c8443ba9d720fb788f2a9604cf13cca46181ae9b19d1ee26cfa28f"
+  },
+  {
+    "id": "GlassBay",
+    "category": "architecture",
+    "url": "models/GlassBay.glb",
+    "dimensions": [
+      1.201,
+      3.2,
+      0.1435
+    ],
+    "bounds": [
+      [
+        -0.6005,
+        0.0,
+        -0.06
+      ],
+      [
+        0.6005,
+        3.2,
+        0.0835
+      ]
+    ],
+    "triangles": 266,
+    "bytes": 468236,
+    "sha256": "4800de69d7ce9b4eba18031df6d5b7e4992b4990ed523c2cae8fae18bfb35b50"
+  },
+  {
+    "id": "GlassCorner",
+    "category": "architecture",
+    "url": "models/GlassCorner.glb",
+    "dimensions": [
+      1.2605,
+      3.2,
+      1.2605
+    ],
+    "bounds": [
+      [
+        -0.06,
+        0.0,
+        -0.06
+      ],
+      [
+        1.2005,
+        3.2,
+        1.2005
+      ]
+    ],
+    "triangles": 532,
+    "bytes": 487384,
+    "sha256": "e97e945e1108689757dea5e0bc022a69036229ab31f9048329225801f35985c5"
+  },
+  {
+    "id": "GlassDoor",
+    "category": "architecture",
+    "url": "models/GlassDoor.glb",
+    "dimensions": [
+      1.2,
+      3.2,
+      0.16
+    ],
+    "bounds": [
+      [
+        -0.6,
+        0.0,
+        -0.08
+      ],
+      [
+        0.6,
+        3.2,
+        0.08
+      ]
+    ],
+    "triangles": 682,
+    "bytes": 52348,
+    "sha256": "d67340faf1bf8faf870cacefcba78891565380712462e24ce35bf5b23d9b49ca"
+  },
+  {
+    "id": "DoubleGlassDoor",
+    "category": "architecture",
+    "url": "models/DoubleGlassDoor.glb",
+    "dimensions": [
+      2.2,
+      3.2,
+      0.16
+    ],
+    "bounds": [
+      [
+        -1.1,
+        0.0,
+        -0.08
+      ],
+      [
+        1.1,
+        3.2,
+        0.08
+      ]
+    ],
+    "triangles": 1188,
+    "bytes": 88756,
+    "sha256": "e97ef7772498dc6f80e3194a009d16cc74b73f467715e9cb3ef55818ca38cdfc"
+  },
+  {
+    "id": "CeilingBeam",
+    "category": "architecture",
+    "url": "models/CeilingBeam.glb",
+    "dimensions": [
+      2.4,
+      0.21,
+      0.265
+    ],
+    "bounds": [
+      [
+        -1.2,
+        -0.105,
+        -0.1325
+      ],
+      [
+        1.2,
+        0.105,
+        0.1325
+      ]
+    ],
+    "triangles": 88,
+    "bytes": 453848,
+    "sha256": "7af69fbfbb6dc3d12f05ed239583c68f0eb14c86ecdfc723f9d00cafae1db65e"
+  },
+  {
+    "id": "PipeRun",
+    "category": "architecture",
+    "url": "models/PipeRun.glb",
+    "dimensions": [
+      1.2,
+      0.42,
+      0.1357
+    ],
+    "bounds": [
+      [
+        -0.6,
+        -0.11,
+        -0.075
+      ],
+      [
+        0.6,
+        0.31,
+        0.06075
+      ]
+    ],
+    "triangles": 592,
+    "bytes": 491852,
+    "sha256": "63a1b58a482292f02696f1274597342734846e4e86a72f53498f9a767d6ecf6e"
+  },
+  {
+    "id": "PipeElbow",
+    "category": "architecture",
+    "url": "models/PipeElbow.glb",
+    "dimensions": [
+      0.3458,
+      0.3616,
+      0.3458
+    ],
+    "bounds": [
+      [
+        -0.025,
+        -0.05923,
+        -0.06075
+      ],
+      [
+        0.32075,
+        0.30237,
+        0.285
+      ]
+    ],
+    "triangles": 1896,
+    "bytes": 584712,
+    "sha256": "957114a4e3f72f81667b17fd0a56dccbda521e4b233d4cd4ee1e96dfc190ec75"
+  },
+  {
+    "id": "CableTray",
+    "category": "architecture",
+    "url": "models/CableTray.glb",
+    "dimensions": [
+      2.4,
+      0.075,
+      0.385
+    ],
+    "bounds": [
+      [
+        -1.2,
+        -0.0375,
+        -0.1925
+      ],
+      [
+        1.2,
+        0.0375,
+        0.1925
+      ]
+    ],
+    "triangles": 1032,
+    "bytes": 522468,
+    "sha256": "b217447718bff9046c567a10afc88164792792f52369a5e28d9c5006bc65d571"
+  },
+  {
+    "id": "LinearLight",
+    "category": "architecture",
+    "url": "models/LinearLight.glb",
+    "dimensions": [
+      1.8,
+      0.239,
+      0.1015
+    ],
+    "bounds": [
+      [
+        -0.9,
+        -0.039,
+        -0.045
+      ],
+      [
+        0.9,
+        0.2,
+        0.0565
+      ]
+    ],
+    "triangles": 180,
+    "bytes": 16332,
+    "sha256": "20c3a5516f88b1c01c18b114cee01f5195a0ca7779da5ef940dee013bcfc7cfd"
+  },
+  {
+    "id": "WallSconce",
+    "category": "architecture",
+    "url": "models/WallSconce.glb",
+    "dimensions": [
+      0.105,
+      0.72,
+      0.092
+    ],
+    "bounds": [
+      [
+        -0.0525,
+        -0.36,
+        -0.04
+      ],
+      [
+        0.0525,
+        0.36,
+        0.052
+      ]
+    ],
+    "triangles": 88,
+    "bytes": 8008,
+    "sha256": "7c928390ab2c7ba31e749bc77a4a50a05aed50269c293c42be9d850910eec89c"
+  },
+  {
+    "id": "WideGlassBay",
+    "category": "architecture",
+    "url": "models/WideGlassBay.glb",
+    "dimensions": [
+      2.401,
+      3.2,
+      0.1435
+    ],
+    "bounds": [
+      [
+        -1.2005,
+        0.0,
+        -0.06
+      ],
+      [
+        1.2005,
+        3.2,
+        0.0835
+      ]
+    ],
+    "triangles": 266,
+    "bytes": 468252,
+    "sha256": "9689c1b58c6aeb6fd7423b4f372153fe078b509e4557550d7c308ad9cc32b928"
+  },
+  {
+    "id": "EntrancePortal",
+    "category": "architecture",
+    "url": "models/EntrancePortal.glb",
+    "dimensions": [
+      2.75,
+      3.295,
+      0.385
+    ],
+    "bounds": [
+      [
+        -1.375,
+        0.0,
+        -0.185
+      ],
+      [
+        1.375,
+        3.295,
+        0.2
+      ]
+    ],
+    "triangles": 264,
+    "bytes": 19548,
+    "sha256": "b524d3230af83f7e1fe62a60cb6d459b50ede8bed3b2134c3bc9e4ae791431b8"
+  },
+  {
+    "id": "FacadeHeader",
+    "category": "architecture",
+    "url": "models/FacadeHeader.glb",
+    "dimensions": [
+      2.4,
+      0.19,
+      0.22
+    ],
+    "bounds": [
+      [
+        -1.2,
+        -0.095,
+        -0.11
+      ],
+      [
+        1.2,
+        0.095,
+        0.11
+      ]
+    ],
+    "triangles": 44,
+    "bytes": 4432,
+    "sha256": "e80810cde6ecfaa12fde604983060aecd2dd892719455a32119bee6116446bf8"
+  },
+  {
+    "id": "FloorPlinth",
+    "category": "architecture",
+    "url": "models/FloorPlinth.glb",
+    "dimensions": [
+      1.2,
+      0.22,
+      1.2
+    ],
+    "bounds": [
+      [
+        -0.6,
+        -0.33,
+        -0.6
+      ],
+      [
+        0.6,
+        -0.11,
+        0.6
+      ]
+    ],
+    "triangles": 44,
+    "bytes": 4436,
+    "sha256": "314029f8f4e219dc23db12815fdfc8c686ac1544c252b18032e162c9b228aa83"
+  },
+  {
+    "id": "Workbench",
+    "category": "furniture",
+    "url": "models/Workbench.glb",
+    "dimensions": [
+      2.7,
+      0.7895,
+      0.9
+    ],
+    "bounds": [
+      [
+        -1.35,
+        0.0075,
+        -0.45
+      ],
+      [
+        1.35,
+        0.797,
+        0.45
+      ]
+    ],
+    "triangles": 992,
+    "bytes": 968312,
+    "sha256": "1be9069424b2c00fd6a72109d92414d9acf8fe3b2f6cc14d8544fdd8ac3edcc1"
+  },
+  {
+    "id": "ReceptionDesk",
+    "category": "furniture",
+    "url": "models/ReceptionDesk.glb",
+    "dimensions": [
+      3.72,
+      1.105,
+      1.165
+    ],
+    "bounds": [
+      [
+        -1.86,
+        0.025,
+        -0.7
+      ],
+      [
+        1.86,
+        1.13,
+        0.465
+      ]
+    ],
+    "triangles": 310,
+    "bytes": 785704,
+    "sha256": "a799e3b935bc7dd7beac5925288ca3a6961d71cba3023a90fd9428262898bcdc"
+  },
+  {
+    "id": "ConferenceTable",
+    "category": "furniture",
+    "url": "models/ConferenceTable.glb",
+    "dimensions": [
+      4.5,
+      0.815,
+      1.42
+    ],
+    "bounds": [
+      [
+        -2.25,
+        0.04,
+        -0.71
+      ],
+      [
+        2.25,
+        0.855,
+        0.71
+      ]
+    ],
+    "triangles": 352,
+    "bytes": 334052,
+    "sha256": "099f16430c3694a3e3b8418edf89c8749450b15d63908134a7545c59e43a1c68"
+  },
+  {
+    "id": "OfficeChair",
+    "category": "furniture",
+    "url": "models/OfficeChair.glb",
+    "dimensions": [
+      0.652,
+      1.147,
+      0.6466
+    ],
+    "bounds": [
+      [
+        -0.325,
+        0.007,
+        -0.32332
+      ],
+      [
+        0.327,
+        1.154,
+        0.32332
+      ]
+    ],
+    "triangles": 2728,
+    "bytes": 831408,
+    "sha256": "8aff9fa59750ca0930aeb611a3c6ef3896cd4c6ddb27357126d19ddddb6fc87e"
+  },
+  {
+    "id": "Sofa",
+    "category": "furniture",
+    "url": "models/Sofa.glb",
+    "dimensions": [
+      2.61,
+      0.825,
+      0.875
+    ],
+    "bounds": [
+      [
+        -1.305,
+        0.0,
+        -0.445
+      ],
+      [
+        1.305,
+        0.825,
+        0.43
+      ]
+    ],
+    "triangles": 3704,
+    "bytes": 900544,
+    "sha256": "aed7aa78354af49d96239e100c5aa9106bfa1a6c36f35fd476a2d2024dd53a4d"
+  },
+  {
+    "id": "CoffeeTable",
+    "category": "furniture",
+    "url": "models/CoffeeTable.glb",
+    "dimensions": [
+      1.3,
+      0.4045,
+      0.66
+    ],
+    "bounds": [
+      [
+        -0.65,
+        0.0005,
+        -0.33
+      ],
+      [
+        0.65,
+        0.405,
+        0.33
+      ]
+    ],
+    "triangles": 264,
+    "bytes": 773628,
+    "sha256": "2b30c0034860cdec58f88774af84531f96403e55819b642b586964b29662c560"
+  },
+  {
+    "id": "SideCabinet",
+    "category": "furniture",
+    "url": "models/SideCabinet.glb",
+    "dimensions": [
+      1.66,
+      0.8645,
+      0.5375
+    ],
+    "bounds": [
+      [
+        -0.83,
+        0.0,
+        -0.255
+      ],
+      [
+        0.83,
+        0.8645,
+        0.2825
+      ]
+    ],
+    "triangles": 352,
+    "bytes": 780984,
+    "sha256": "d4e39d37fd65da11538e2072f2354a67e2b946e029eee168f873b562776498c2"
+  },
+  {
+    "id": "Bookcase",
+    "category": "furniture",
+    "url": "models/Bookcase.glb",
+    "dimensions": [
+      1.05,
+      2.2575,
+      0.44
+    ],
+    "bounds": [
+      [
+        -0.525,
+        0.0,
+        -0.22
+      ],
+      [
+        0.525,
+        2.2575,
+        0.22
+      ]
+    ],
+    "triangles": 1452,
+    "bytes": 554500,
+    "sha256": "999c4f10555416021aebbae745b535a33e52ed011038b0c7a0fb3ee8f1a0951e"
+  },
+  {
+    "id": "UtilityCart",
+    "category": "furniture",
+    "url": "models/UtilityCart.glb",
+    "dimensions": [
+      0.82,
+      0.8252,
+      0.466
+    ],
+    "bounds": [
+      [
+        -0.41,
+        0.01808,
+        -0.233
+      ],
+      [
+        0.41,
+        0.84331,
+        0.233
+      ]
+    ],
+    "triangles": 608,
+    "bytes": 492988,
+    "sha256": "b99b913226a85be6d5b4c19f00e048bf713574d574ac0efab105fa6715d3c487"
+  },
+  {
+    "id": "Rug",
+    "category": "furniture",
+    "url": "models/Rug.glb",
+    "dimensions": [
+      3.3,
+      0.012,
+      2.1
+    ],
+    "bounds": [
+      [
+        -1.65,
+        0.0,
+        -1.05
+      ],
+      [
+        1.65,
+        0.012,
+        1.05
+      ]
+    ],
+    "triangles": 44,
+    "bytes": 149856,
+    "sha256": "f93312bf36cdfd53739205cf85f1d6d6fca7aa6c00e9bb7a444b9e047fff0c27"
+  },
+  {
+    "id": "Monitor",
+    "category": "technology",
+    "url": "models/Monitor.glb",
+    "dimensions": [
+      0.65,
+      0.581,
+      0.18
+    ],
+    "bounds": [
+      [
+        -0.325,
+        0.009,
+        -0.1
+      ],
+      [
+        0.325,
+        0.59,
+        0.08
+      ]
+    ],
+    "triangles": 426,
+    "bytes": 528816,
+    "sha256": "a71c538b07fc47ea07fee728baff4847919d604437031570bc6bc240e9e8267b"
+  },
+  {
+    "id": "Keyboard",
+    "category": "technology",
+    "url": "models/Keyboard.glb",
+    "dimensions": [
+      0.44,
+      0.021,
+      0.155
+    ],
+    "bounds": [
+      [
+        -0.22,
+        0.003,
+        -0.0775
+      ],
+      [
+        0.22,
+        0.024,
+        0.0775
+      ]
+    ],
+    "triangles": 46,
+    "bytes": 15668,
+    "sha256": "d04efe433c2e7acf8babac137ade79b1a7da49d648f6b8395ccf07163c8ac69b"
+  },
+  {
+    "id": "Mouse",
+    "category": "technology",
+    "url": "models/Mouse.glb",
+    "dimensions": [
+      0.062,
+      0.0379,
+      0.102
+    ],
+    "bounds": [
+      [
+        -0.031,
+        0.0045,
+        -0.051
+      ],
+      [
+        0.031,
+        0.04237,
+        0.051
+      ]
+    ],
+    "triangles": 424,
+    "bytes": 32840,
+    "sha256": "38940b58ed3c948fc964052815dc16d8309b1c89efeb0ca5a7e513bedd6b1d62"
+  },
+  {
+    "id": "Laptop",
+    "category": "technology",
+    "url": "models/Laptop.glb",
+    "dimensions": [
+      0.37,
+      0.2582,
+      0.2685
+    ],
+    "bounds": [
+      [
+        -0.185,
+        0.0055,
+        -0.14105
+      ],
+      [
+        0.185,
+        0.26371,
+        0.1275
+      ]
+    ],
+    "triangles": 136,
+    "bytes": 487872,
+    "sha256": "145b3154613b48025201ff83493455768a7c769f21af679cf068e5c9dc602544"
+  },
+  {
+    "id": "WallDisplay",
+    "category": "technology",
+    "url": "models/WallDisplay.glb",
+    "dimensions": [
+      1.8,
+      1.045,
+      0.132
+    ],
+    "bounds": [
+      [
+        -0.9,
+        -0.5225,
+        -0.083
+      ],
+      [
+        0.9,
+        0.5225,
+        0.049
+      ]
+    ],
+    "triangles": 90,
+    "bytes": 471924,
+    "sha256": "c6867702f6459025c7f388755074c69b4889227bb0ef33f23ee9f6d7026983c7"
+  },
+  {
+    "id": "MonitorWall",
+    "category": "technology",
+    "url": "models/MonitorWall.glb",
+    "dimensions": [
+      4.35,
+      2.8175,
+      0.156
+    ],
+    "bounds": [
+      [
+        -2.39,
+        0.19748,
+        -0.109
+      ],
+      [
+        1.96,
+        3.015,
+        0.047
+      ]
+    ],
+    "triangles": 882,
+    "bytes": 199028,
+    "sha256": "63aa75715c43e7575ddd01e9a2c331fa33371b4397e652a61de3fcba8a87cdda"
+  },
+  {
+    "id": "ServerRack",
+    "category": "technology",
+    "url": "models/ServerRack.glb",
+    "dimensions": [
+      0.77,
+      2.3375,
+      0.9195
+    ],
+    "bounds": [
+      [
+        -0.385,
+        0.0025,
+        -0.39
+      ],
+      [
+        0.385,
+        2.34,
+        0.5295
+      ]
+    ],
+    "triangles": 10254,
+    "bytes": 1191592,
+    "sha256": "b24a9f4d31ae5a0234f535d6871079d37ee4b3be86742a4e24cc5a5799b95d3b"
+  },
+  {
+    "id": "BadgeReader",
+    "category": "technology",
+    "url": "models/BadgeReader.glb",
+    "dimensions": [
+      0.1,
+      0.21,
+      0.0535
+    ],
+    "bounds": [
+      [
+        -0.05,
+        -0.105,
+        -0.0225
+      ],
+      [
+        0.05,
+        0.105,
+        0.031
+      ]
+    ],
+    "triangles": 132,
+    "bytes": 457416,
+    "sha256": "4ef3c57c10bdf86bb292a396dc7491f45530722959d7401ca7ab01614f9e394b"
+  },
+  {
+    "id": "AccessGate",
+    "category": "technology",
+    "url": "models/AccessGate.glb",
+    "dimensions": [
+      1.16,
+      1.076,
+      0.65
+    ],
+    "bounds": [
+      [
+        -0.58,
+        0.0,
+        -0.325
+      ],
+      [
+        0.58,
+        1.076,
+        0.325
+      ]
+    ],
+    "triangles": 354,
+    "bytes": 474476,
+    "sha256": "daf7c81a0a287b7645290f41d86f6a0399ef881114b5ac5817231ae5f9d75496"
+  },
+  {
+    "id": "Kiosk",
+    "category": "technology",
+    "url": "models/Kiosk.glb",
+    "dimensions": [
+      0.64,
+      1.62,
+      0.47
+    ],
+    "bounds": [
+      [
+        -0.32,
+        0.01,
+        -0.235
+      ],
+      [
+        0.32,
+        1.63,
+        0.235
+      ]
+    ],
+    "triangles": 134,
+    "bytes": 480904,
+    "sha256": "47f2d7e03c2330c9982d3df86b21dcac6caa838dac1f8d7b89cd15a9ebfc73ad"
+  },
+  {
+    "id": "Tablet",
+    "category": "technology",
+    "url": "models/Tablet.glb",
+    "dimensions": [
+      0.26,
+      0.0483,
+      0.1774
+    ],
+    "bounds": [
+      [
+        -0.13,
+        0.01652,
+        -0.08872
+      ],
+      [
+        0.13,
+        0.0648,
+        0.08872
+      ]
+    ],
+    "triangles": 46,
+    "bytes": 27992,
+    "sha256": "e28d32c5ca1f17ebf4d4ed53b2bdb1f8acaf2ee9491273c05d56066f9ac6dcea"
+  },
+  {
+    "id": "Planter",
+    "category": "dressing",
+    "url": "models/Planter.glb",
+    "dimensions": [
+      1.0444,
+      1.8634,
+      1.0264
+    ],
+    "bounds": [
+      [
+        -0.53134,
+        0.0,
+        -0.52411
+      ],
+      [
+        0.51304,
+        1.8634,
+        0.50234
+      ]
+    ],
+    "triangles": 1830,
+    "bytes": 740116,
+    "sha256": "c51173f7497fdeb358b3e58431ede63b1b648a624ad86a97e7f19f99752130c0"
+  },
+  {
+    "id": "DeskPlant",
+    "category": "dressing",
+    "url": "models/DeskPlant.glb",
+    "dimensions": [
+      0.2715,
+      0.4845,
+      0.2669
+    ],
+    "bounds": [
+      [
+        -0.13815,
+        0.0,
+        -0.13627
+      ],
+      [
+        0.13339,
+        0.48448,
+        0.13061
+      ]
+    ],
+    "triangles": 1830,
+    "bytes": 740212,
+    "sha256": "573523a301759d942b4392cd0c769f59b5f751c79047bf51da0dce55d194a9ab"
+  },
+  {
+    "id": "BookStack",
+    "category": "dressing",
+    "url": "models/BookStack.glb",
+    "dimensions": [
+      0.238,
+      0.1165,
+      0.1914
+    ],
+    "bounds": [
+      [
+        -0.119,
+        0.0035,
+        -0.09572
+      ],
+      [
+        0.119,
+        0.12,
+        0.09572
+      ]
+    ],
+    "triangles": 264,
+    "bytes": 468200,
+    "sha256": "9ff2e3e72205fda5fae0c5db54d60923db68149fbb20069db9eca26f4ed7ccdf"
+  },
+  {
+    "id": "Mug",
+    "category": "dressing",
+    "url": "models/Mug.glb",
+    "dimensions": [
+      0.109,
+      0.0905,
+      0.072
+    ],
+    "bounds": [
+      [
+        -0.036,
+        0.007,
+        -0.036
+      ],
+      [
+        0.073,
+        0.0975,
+        0.036
+      ]
+    ],
+    "triangles": 352,
+    "bytes": 473504,
+    "sha256": "35d3755c1d21e7a358a8fedcf27c0bd30e93d7ab138ac537c08e2db76eb36b1c"
+  },
+  {
+    "id": "CoffeeMachine",
+    "category": "dressing",
+    "url": "models/CoffeeMachine.glb",
+    "dimensions": [
+      0.32,
+      0.4,
+      0.42
+    ],
+    "bounds": [
+      [
+        -0.16,
+        0.02,
+        -0.16
+      ],
+      [
+        0.16,
+        0.42,
+        0.26
+      ]
+    ],
+    "triangles": 332,
+    "bytes": 26956,
+    "sha256": "481a086ef1069e618641e7c0f1e2e5a999b76060067a5ceff7d9adc6c623120d"
+  },
+  {
+    "id": "DGLogoPanel",
+    "category": "dressing",
+    "url": "models/DGLogoPanel.glb",
+    "dimensions": [
+      1.48,
+      2.2,
+      0.0485
+    ],
+    "bounds": [
+      [
+        -0.74,
+        -1.1,
+        -0.0225
+      ],
+      [
+        0.74,
+        1.1,
+        0.026
+      ]
+    ],
+    "triangles": 46,
+    "bytes": 30984,
+    "sha256": "d059a64ced91b5691fc8a8d4c72b48b47ba51945c8cbd2f3d04b66613864ceb3"
+  },
+  {
+    "id": "SloganPanel",
+    "category": "dressing",
+    "url": "models/SloganPanel.glb",
+    "dimensions": [
+      1.16,
+      1.64,
+      0.0485
+    ],
+    "bounds": [
+      [
+        -0.58,
+        -0.82,
+        -0.0225
+      ],
+      [
+        0.58,
+        0.82,
+        0.026
+      ]
+    ],
+    "triangles": 46,
+    "bytes": 25728,
+    "sha256": "d69806974e880da334d6c9cc5321c1a9c24e3e43f868d7baf82c459cfff64947"
+  },
+  {
+    "id": "GlassDecal",
+    "category": "dressing",
+    "url": "models/GlassDecal.glb",
+    "dimensions": [
+      1.45,
+      0.267,
+      0.0
+    ],
+    "bounds": [
+      [
+        -0.725,
+        -0.1335,
+        0.0
+      ],
+      [
+        0.725,
+        0.1335,
+        0.0
+      ]
+    ],
+    "triangles": 2,
+    "bytes": 6188,
+    "sha256": "4f177562453c574253c089c5928890054c8cf53ebef64f6c362c376462cc978c"
+  },
+  {
+    "id": "FloorLabel",
+    "category": "dressing",
+    "url": "models/FloorLabel.glb",
+    "dimensions": [
+      1.43,
+      0.0,
+      0.22
+    ],
+    "bounds": [
+      [
+        -0.715,
+        0.004,
+        -0.11
+      ],
+      [
+        0.715,
+        0.004,
+        0.11
+      ]
+    ],
+    "triangles": 2,
+    "bytes": 7228,
+    "sha256": "07b71f22f55bb2a41defca244c4f4e82148395892423721fa11b305a0da3d805"
+  },
+  {
+    "id": "SessionFigure",
+    "category": "dressing",
+    "url": "models/SessionFigure.glb",
+    "dimensions": [
+      0.63,
+      1.5345,
+      0.285
+    ],
+    "bounds": [
+      [
+        -0.315,
+        -0.0005,
+        -0.122
+      ],
+      [
+        0.315,
+        1.534,
+        0.163
+      ]
+    ],
+    "triangles": 528,
+    "bytes": 102584,
+    "sha256": "08e0a0db6f6358623ea54ea4406522ad4688a930e9b15519078a65fe7ca3fe8f"
+  }
+]

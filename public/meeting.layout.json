@@ -1,0 +1,3662 @@
+[
+  {
+    "id": "FloorTile-000",
+    "asset": "FloorTile",
+    "position": [
+      -4.800000000000001,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-001",
+    "asset": "FloorPlinth",
+    "position": [
+      -4.800000000000001,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-002",
+    "asset": "FloorTile",
+    "position": [
+      -4.800000000000001,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-003",
+    "asset": "FloorPlinth",
+    "position": [
+      -4.800000000000001,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-004",
+    "asset": "FloorTile",
+    "position": [
+      -4.800000000000001,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-005",
+    "asset": "FloorPlinth",
+    "position": [
+      -4.800000000000001,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-006",
+    "asset": "FloorTile",
+    "position": [
+      -4.800000000000001,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-007",
+    "asset": "FloorPlinth",
+    "position": [
+      -4.800000000000001,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-008",
+    "asset": "FloorTile",
+    "position": [
+      -4.800000000000001,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-009",
+    "asset": "FloorPlinth",
+    "position": [
+      -4.800000000000001,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-010",
+    "asset": "FloorTile",
+    "position": [
+      -4.800000000000001,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-011",
+    "asset": "FloorPlinth",
+    "position": [
+      -4.800000000000001,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-012",
+    "asset": "FloorTile",
+    "position": [
+      -4.800000000000001,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-013",
+    "asset": "FloorPlinth",
+    "position": [
+      -4.800000000000001,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-014",
+    "asset": "FloorTile",
+    "position": [
+      -4.800000000000001,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-015",
+    "asset": "FloorPlinth",
+    "position": [
+      -4.800000000000001,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-016",
+    "asset": "FloorTile",
+    "position": [
+      -3.6000000000000005,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-017",
+    "asset": "FloorPlinth",
+    "position": [
+      -3.6000000000000005,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-018",
+    "asset": "FloorTile",
+    "position": [
+      -3.6000000000000005,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-019",
+    "asset": "FloorPlinth",
+    "position": [
+      -3.6000000000000005,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-020",
+    "asset": "FloorTile",
+    "position": [
+      -3.6000000000000005,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-021",
+    "asset": "FloorPlinth",
+    "position": [
+      -3.6000000000000005,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-022",
+    "asset": "FloorTile",
+    "position": [
+      -3.6000000000000005,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-023",
+    "asset": "FloorPlinth",
+    "position": [
+      -3.6000000000000005,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-024",
+    "asset": "FloorTile",
+    "position": [
+      -3.6000000000000005,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-025",
+    "asset": "FloorPlinth",
+    "position": [
+      -3.6000000000000005,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-026",
+    "asset": "FloorTile",
+    "position": [
+      -3.6000000000000005,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-027",
+    "asset": "FloorPlinth",
+    "position": [
+      -3.6000000000000005,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-028",
+    "asset": "FloorTile",
+    "position": [
+      -3.6000000000000005,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-029",
+    "asset": "FloorPlinth",
+    "position": [
+      -3.6000000000000005,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-030",
+    "asset": "FloorTile",
+    "position": [
+      -3.6000000000000005,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-031",
+    "asset": "FloorPlinth",
+    "position": [
+      -3.6000000000000005,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-032",
+    "asset": "FloorTile",
+    "position": [
+      -2.400000000000001,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-033",
+    "asset": "FloorPlinth",
+    "position": [
+      -2.400000000000001,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-034",
+    "asset": "FloorTile",
+    "position": [
+      -2.400000000000001,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-035",
+    "asset": "FloorPlinth",
+    "position": [
+      -2.400000000000001,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-036",
+    "asset": "FloorTile",
+    "position": [
+      -2.400000000000001,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-037",
+    "asset": "FloorPlinth",
+    "position": [
+      -2.400000000000001,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-038",
+    "asset": "FloorTile",
+    "position": [
+      -2.400000000000001,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-039",
+    "asset": "FloorPlinth",
+    "position": [
+      -2.400000000000001,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-040",
+    "asset": "FloorTile",
+    "position": [
+      -2.400000000000001,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-041",
+    "asset": "FloorPlinth",
+    "position": [
+      -2.400000000000001,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-042",
+    "asset": "FloorTile",
+    "position": [
+      -2.400000000000001,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-043",
+    "asset": "FloorPlinth",
+    "position": [
+      -2.400000000000001,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-044",
+    "asset": "FloorTile",
+    "position": [
+      -2.400000000000001,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-045",
+    "asset": "FloorPlinth",
+    "position": [
+      -2.400000000000001,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-046",
+    "asset": "FloorTile",
+    "position": [
+      -2.400000000000001,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-047",
+    "asset": "FloorPlinth",
+    "position": [
+      -2.400000000000001,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-048",
+    "asset": "FloorTile",
+    "position": [
+      -1.200000000000001,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-049",
+    "asset": "FloorPlinth",
+    "position": [
+      -1.200000000000001,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-050",
+    "asset": "FloorTile",
+    "position": [
+      -1.200000000000001,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-051",
+    "asset": "FloorPlinth",
+    "position": [
+      -1.200000000000001,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-052",
+    "asset": "FloorTile",
+    "position": [
+      -1.200000000000001,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-053",
+    "asset": "FloorPlinth",
+    "position": [
+      -1.200000000000001,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-054",
+    "asset": "FloorTile",
+    "position": [
+      -1.200000000000001,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-055",
+    "asset": "FloorPlinth",
+    "position": [
+      -1.200000000000001,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-056",
+    "asset": "FloorTile",
+    "position": [
+      -1.200000000000001,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-057",
+    "asset": "FloorPlinth",
+    "position": [
+      -1.200000000000001,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-058",
+    "asset": "FloorTile",
+    "position": [
+      -1.200000000000001,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-059",
+    "asset": "FloorPlinth",
+    "position": [
+      -1.200000000000001,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-060",
+    "asset": "FloorTile",
+    "position": [
+      -1.200000000000001,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-061",
+    "asset": "FloorPlinth",
+    "position": [
+      -1.200000000000001,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-062",
+    "asset": "FloorTile",
+    "position": [
+      -1.200000000000001,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-063",
+    "asset": "FloorPlinth",
+    "position": [
+      -1.200000000000001,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-064",
+    "asset": "FloorTile",
+    "position": [
+      -8.881784197001252e-16,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-065",
+    "asset": "FloorPlinth",
+    "position": [
+      -8.881784197001252e-16,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-066",
+    "asset": "FloorTile",
+    "position": [
+      -8.881784197001252e-16,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-067",
+    "asset": "FloorPlinth",
+    "position": [
+      -8.881784197001252e-16,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-068",
+    "asset": "FloorTile",
+    "position": [
+      -8.881784197001252e-16,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-069",
+    "asset": "FloorPlinth",
+    "position": [
+      -8.881784197001252e-16,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-070",
+    "asset": "FloorTile",
+    "position": [
+      -8.881784197001252e-16,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-071",
+    "asset": "FloorPlinth",
+    "position": [
+      -8.881784197001252e-16,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-072",
+    "asset": "FloorTile",
+    "position": [
+      -8.881784197001252e-16,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-073",
+    "asset": "FloorPlinth",
+    "position": [
+      -8.881784197001252e-16,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-074",
+    "asset": "FloorTile",
+    "position": [
+      -8.881784197001252e-16,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-075",
+    "asset": "FloorPlinth",
+    "position": [
+      -8.881784197001252e-16,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-076",
+    "asset": "FloorTile",
+    "position": [
+      -8.881784197001252e-16,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-077",
+    "asset": "FloorPlinth",
+    "position": [
+      -8.881784197001252e-16,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-078",
+    "asset": "FloorTile",
+    "position": [
+      -8.881784197001252e-16,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-079",
+    "asset": "FloorPlinth",
+    "position": [
+      -8.881784197001252e-16,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-080",
+    "asset": "FloorTile",
+    "position": [
+      1.1999999999999993,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-081",
+    "asset": "FloorPlinth",
+    "position": [
+      1.1999999999999993,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-082",
+    "asset": "FloorTile",
+    "position": [
+      1.1999999999999993,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-083",
+    "asset": "FloorPlinth",
+    "position": [
+      1.1999999999999993,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-084",
+    "asset": "FloorTile",
+    "position": [
+      1.1999999999999993,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-085",
+    "asset": "FloorPlinth",
+    "position": [
+      1.1999999999999993,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-086",
+    "asset": "FloorTile",
+    "position": [
+      1.1999999999999993,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-087",
+    "asset": "FloorPlinth",
+    "position": [
+      1.1999999999999993,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-088",
+    "asset": "FloorTile",
+    "position": [
+      1.1999999999999993,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-089",
+    "asset": "FloorPlinth",
+    "position": [
+      1.1999999999999993,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-090",
+    "asset": "FloorTile",
+    "position": [
+      1.1999999999999993,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-091",
+    "asset": "FloorPlinth",
+    "position": [
+      1.1999999999999993,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-092",
+    "asset": "FloorTile",
+    "position": [
+      1.1999999999999993,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-093",
+    "asset": "FloorPlinth",
+    "position": [
+      1.1999999999999993,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-094",
+    "asset": "FloorTile",
+    "position": [
+      1.1999999999999993,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-095",
+    "asset": "FloorPlinth",
+    "position": [
+      1.1999999999999993,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-096",
+    "asset": "FloorTile",
+    "position": [
+      2.3999999999999986,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-097",
+    "asset": "FloorPlinth",
+    "position": [
+      2.3999999999999986,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-098",
+    "asset": "FloorTile",
+    "position": [
+      2.3999999999999986,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-099",
+    "asset": "FloorPlinth",
+    "position": [
+      2.3999999999999986,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-100",
+    "asset": "FloorTile",
+    "position": [
+      2.3999999999999986,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-101",
+    "asset": "FloorPlinth",
+    "position": [
+      2.3999999999999986,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-102",
+    "asset": "FloorTile",
+    "position": [
+      2.3999999999999986,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-103",
+    "asset": "FloorPlinth",
+    "position": [
+      2.3999999999999986,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-104",
+    "asset": "FloorTile",
+    "position": [
+      2.3999999999999986,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-105",
+    "asset": "FloorPlinth",
+    "position": [
+      2.3999999999999986,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-106",
+    "asset": "FloorTile",
+    "position": [
+      2.3999999999999986,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-107",
+    "asset": "FloorPlinth",
+    "position": [
+      2.3999999999999986,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-108",
+    "asset": "FloorTile",
+    "position": [
+      2.3999999999999986,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-109",
+    "asset": "FloorPlinth",
+    "position": [
+      2.3999999999999986,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-110",
+    "asset": "FloorTile",
+    "position": [
+      2.3999999999999986,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-111",
+    "asset": "FloorPlinth",
+    "position": [
+      2.3999999999999986,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-112",
+    "asset": "FloorTile",
+    "position": [
+      3.5999999999999996,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-113",
+    "asset": "FloorPlinth",
+    "position": [
+      3.5999999999999996,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-114",
+    "asset": "FloorTile",
+    "position": [
+      3.5999999999999996,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-115",
+    "asset": "FloorPlinth",
+    "position": [
+      3.5999999999999996,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-116",
+    "asset": "FloorTile",
+    "position": [
+      3.5999999999999996,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-117",
+    "asset": "FloorPlinth",
+    "position": [
+      3.5999999999999996,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-118",
+    "asset": "FloorTile",
+    "position": [
+      3.5999999999999996,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-119",
+    "asset": "FloorPlinth",
+    "position": [
+      3.5999999999999996,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-120",
+    "asset": "FloorTile",
+    "position": [
+      3.5999999999999996,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-121",
+    "asset": "FloorPlinth",
+    "position": [
+      3.5999999999999996,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-122",
+    "asset": "FloorTile",
+    "position": [
+      3.5999999999999996,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-123",
+    "asset": "FloorPlinth",
+    "position": [
+      3.5999999999999996,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-124",
+    "asset": "FloorTile",
+    "position": [
+      3.5999999999999996,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-125",
+    "asset": "FloorPlinth",
+    "position": [
+      3.5999999999999996,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-126",
+    "asset": "FloorTile",
+    "position": [
+      3.5999999999999996,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-127",
+    "asset": "FloorPlinth",
+    "position": [
+      3.5999999999999996,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-128",
+    "asset": "FloorTile",
+    "position": [
+      4.799999999999999,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-129",
+    "asset": "FloorPlinth",
+    "position": [
+      4.799999999999999,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-130",
+    "asset": "FloorTile",
+    "position": [
+      4.799999999999999,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-131",
+    "asset": "FloorPlinth",
+    "position": [
+      4.799999999999999,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-132",
+    "asset": "FloorTile",
+    "position": [
+      4.799999999999999,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-133",
+    "asset": "FloorPlinth",
+    "position": [
+      4.799999999999999,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-134",
+    "asset": "FloorTile",
+    "position": [
+      4.799999999999999,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-135",
+    "asset": "FloorPlinth",
+    "position": [
+      4.799999999999999,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-136",
+    "asset": "FloorTile",
+    "position": [
+      4.799999999999999,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      0.0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-137",
+    "asset": "FloorPlinth",
+    "position": [
+      4.799999999999999,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-138",
+    "asset": "FloorTile",
+    "position": [
+      4.799999999999999,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-139",
+    "asset": "FloorPlinth",
+    "position": [
+      4.799999999999999,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-140",
+    "asset": "FloorTile",
+    "position": [
+      4.799999999999999,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-141",
+    "asset": "FloorPlinth",
+    "position": [
+      4.799999999999999,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorTile-142",
+    "asset": "FloorTile",
+    "position": [
+      4.799999999999999,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      4.71238898038469,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FloorPlinth-143",
+    "asset": "FloorPlinth",
+    "position": [
+      4.799999999999999,
+      0,
+      4.800000000000001
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WallPanel-144",
+    "asset": "WallPanel",
+    "position": [
+      -4.800000000000001,
+      0,
+      -4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "PipeRun-145",
+    "asset": "PipeRun",
+    "position": [
+      -4.800000000000001,
+      2.93,
+      -3.98
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WallPanel-146",
+    "asset": "WallPanel",
+    "position": [
+      -3.6000000000000005,
+      0,
+      -4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "PipeRun-147",
+    "asset": "PipeRun",
+    "position": [
+      -3.6000000000000005,
+      2.93,
+      -3.98
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WallPanel-148",
+    "asset": "WallPanel",
+    "position": [
+      -2.400000000000001,
+      0,
+      -4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "PipeRun-149",
+    "asset": "PipeRun",
+    "position": [
+      -2.400000000000001,
+      2.93,
+      -3.98
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WallPanel-150",
+    "asset": "WallPanel",
+    "position": [
+      -1.200000000000001,
+      0,
+      -4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "PipeRun-151",
+    "asset": "PipeRun",
+    "position": [
+      -1.200000000000001,
+      2.93,
+      -3.98
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WallPanel-152",
+    "asset": "WallPanel",
+    "position": [
+      -8.881784197001252e-16,
+      0,
+      -4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "PipeRun-153",
+    "asset": "PipeRun",
+    "position": [
+      -8.881784197001252e-16,
+      2.93,
+      -3.98
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WallPanel-154",
+    "asset": "WallPanel",
+    "position": [
+      1.1999999999999993,
+      0,
+      -4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "PipeRun-155",
+    "asset": "PipeRun",
+    "position": [
+      1.1999999999999993,
+      2.93,
+      -3.98
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WallPanel-156",
+    "asset": "WallPanel",
+    "position": [
+      2.3999999999999986,
+      0,
+      -4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "PipeRun-157",
+    "asset": "PipeRun",
+    "position": [
+      2.3999999999999986,
+      2.93,
+      -3.98
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WallPanel-158",
+    "asset": "WallPanel",
+    "position": [
+      3.5999999999999996,
+      0,
+      -4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "PipeRun-159",
+    "asset": "PipeRun",
+    "position": [
+      3.5999999999999996,
+      2.93,
+      -3.98
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WallPanel-160",
+    "asset": "WallPanel",
+    "position": [
+      4.799999999999999,
+      0,
+      -4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "PipeRun-161",
+    "asset": "PipeRun",
+    "position": [
+      4.799999999999999,
+      2.93,
+      -3.98
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WallPanel-162",
+    "asset": "WallPanel",
+    "position": [
+      -5.4,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "PipeRun-163",
+    "asset": "PipeRun",
+    "position": [
+      -5.180000000000001,
+      2.93,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WallPanel-164",
+    "asset": "WallPanel",
+    "position": [
+      -5.4,
+      0,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "PipeRun-165",
+    "asset": "PipeRun",
+    "position": [
+      -5.180000000000001,
+      2.93,
+      -2.4000000000000004
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WallPanel-166",
+    "asset": "WallPanel",
+    "position": [
+      -5.4,
+      0,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "PipeRun-167",
+    "asset": "PipeRun",
+    "position": [
+      -5.180000000000001,
+      2.93,
+      -1.2000000000000002
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WallPanel-168",
+    "asset": "WallPanel",
+    "position": [
+      -5.4,
+      0,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "PipeRun-169",
+    "asset": "PipeRun",
+    "position": [
+      -5.180000000000001,
+      2.93,
+      -4.440892098500626e-16
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WallPanel-170",
+    "asset": "WallPanel",
+    "position": [
+      -5.4,
+      0,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "PipeRun-171",
+    "asset": "PipeRun",
+    "position": [
+      -5.180000000000001,
+      2.93,
+      1.1999999999999997
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WallPanel-172",
+    "asset": "WallPanel",
+    "position": [
+      -5.4,
+      0,
+      2.4
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "PipeRun-173",
+    "asset": "PipeRun",
+    "position": [
+      -5.180000000000001,
+      2.93,
+      2.4
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WallPanel-174",
+    "asset": "WallPanel",
+    "position": [
+      -5.4,
+      0,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "PipeRun-175",
+    "asset": "PipeRun",
+    "position": [
+      -5.180000000000001,
+      2.93,
+      3.599999999999999
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "StructuralColumn-176",
+    "asset": "StructuralColumn",
+    "position": [
+      -5.4,
+      0,
+      -4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "StructuralColumn-177",
+    "asset": "StructuralColumn",
+    "position": [
+      5.4,
+      0,
+      -4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "StructuralColumn-178",
+    "asset": "StructuralColumn",
+    "position": [
+      -5.4,
+      0,
+      4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "StructuralColumn-179",
+    "asset": "StructuralColumn",
+    "position": [
+      5.4,
+      0,
+      4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "CeilingBeam-180",
+    "asset": "CeilingBeam",
+    "position": [
+      -4.2,
+      3.13,
+      -4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "LinearLight-181",
+    "asset": "LinearLight",
+    "position": [
+      -4.2,
+      2.89,
+      -3.96
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "CeilingBeam-182",
+    "asset": "CeilingBeam",
+    "position": [
+      -1.8000000000000003,
+      3.13,
+      -4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "LinearLight-183",
+    "asset": "LinearLight",
+    "position": [
+      -1.8000000000000003,
+      2.89,
+      -3.96
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "CeilingBeam-184",
+    "asset": "CeilingBeam",
+    "position": [
+      0.5999999999999996,
+      3.13,
+      -4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "LinearLight-185",
+    "asset": "LinearLight",
+    "position": [
+      0.5999999999999996,
+      2.89,
+      -3.96
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "CeilingBeam-186",
+    "asset": "CeilingBeam",
+    "position": [
+      2.999999999999999,
+      3.13,
+      -4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "LinearLight-187",
+    "asset": "LinearLight",
+    "position": [
+      2.999999999999999,
+      2.89,
+      -3.96
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "CeilingBeam-188",
+    "asset": "CeilingBeam",
+    "position": [
+      5.3999999999999995,
+      3.13,
+      -4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "LinearLight-189",
+    "asset": "LinearLight",
+    "position": [
+      5.3999999999999995,
+      2.89,
+      -3.96
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "CeilingBeam-190",
+    "asset": "CeilingBeam",
+    "position": [
+      -5.4,
+      3.13,
+      -3.0
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "LinearLight-191",
+    "asset": "LinearLight",
+    "position": [
+      -5.16,
+      2.89,
+      -3.0
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "CeilingBeam-192",
+    "asset": "CeilingBeam",
+    "position": [
+      -5.4,
+      3.13,
+      -0.6000000000000001
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "LinearLight-193",
+    "asset": "LinearLight",
+    "position": [
+      -5.16,
+      2.89,
+      -0.6000000000000001
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "CeilingBeam-194",
+    "asset": "CeilingBeam",
+    "position": [
+      -5.4,
+      3.13,
+      1.7999999999999998
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "LinearLight-195",
+    "asset": "LinearLight",
+    "position": [
+      -5.16,
+      2.89,
+      1.7999999999999998
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "GlassBay-196",
+    "asset": "GlassBay",
+    "position": [
+      -4.800000000000001,
+      0,
+      4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "DoubleGlassDoor-197",
+    "asset": "DoubleGlassDoor",
+    "position": [
+      -3.0000000000000004,
+      0,
+      4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "EntrancePortal-198",
+    "asset": "EntrancePortal",
+    "position": [
+      -3.0000000000000004,
+      0,
+      4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WideGlassBay-199",
+    "asset": "WideGlassBay",
+    "position": [
+      -0.6000000000000003,
+      0,
+      4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WideGlassBay-200",
+    "asset": "WideGlassBay",
+    "position": [
+      1.7999999999999996,
+      0,
+      4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WideGlassBay-201",
+    "asset": "WideGlassBay",
+    "position": [
+      4.199999999999999,
+      0,
+      4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WideGlassBay-202",
+    "asset": "WideGlassBay",
+    "position": [
+      5.4,
+      0,
+      -3.0
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WideGlassBay-203",
+    "asset": "WideGlassBay",
+    "position": [
+      5.4,
+      0,
+      -0.6000000000000001
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "WideGlassBay-204",
+    "asset": "WideGlassBay",
+    "position": [
+      5.4,
+      0,
+      1.7999999999999998
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "GlassBay-205",
+    "asset": "GlassBay",
+    "position": [
+      5.4,
+      0,
+      3.6
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FacadeHeader-206",
+    "asset": "FacadeHeader",
+    "position": [
+      -4.2,
+      3.2,
+      4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FacadeHeader-207",
+    "asset": "FacadeHeader",
+    "position": [
+      -1.8000000000000003,
+      3.2,
+      4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FacadeHeader-208",
+    "asset": "FacadeHeader",
+    "position": [
+      0.5999999999999996,
+      3.2,
+      4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FacadeHeader-209",
+    "asset": "FacadeHeader",
+    "position": [
+      2.999999999999999,
+      3.2,
+      4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FacadeHeader-210",
+    "asset": "FacadeHeader",
+    "position": [
+      5.3999999999999995,
+      3.2,
+      4.2
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FacadeHeader-211",
+    "asset": "FacadeHeader",
+    "position": [
+      5.4,
+      3.2,
+      -3.0
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FacadeHeader-212",
+    "asset": "FacadeHeader",
+    "position": [
+      5.4,
+      3.2,
+      -0.6000000000000001
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "FacadeHeader-213",
+    "asset": "FacadeHeader",
+    "position": [
+      5.4,
+      3.2,
+      1.7999999999999998
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "GlassDecal-214",
+    "asset": "GlassDecal",
+    "position": [
+      1.55,
+      1.93,
+      4.271
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "ConferenceTable-215",
+    "asset": "ConferenceTable",
+    "position": [
+      0.4,
+      0,
+      -0.28
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "Rug-216",
+    "asset": "Rug",
+    "position": [
+      0.4,
+      0,
+      -0.28
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1.62
+  },
+  {
+    "id": "OfficeChair-217",
+    "asset": "OfficeChair",
+    "position": [
+      -1.15,
+      0,
+      1.0
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "OfficeChair-218",
+    "asset": "OfficeChair",
+    "position": [
+      -1.15,
+      0,
+      -1.57
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "Tablet-219",
+    "asset": "Tablet",
+    "position": [
+      -1.15,
+      0.86,
+      0.12
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "Tablet-220",
+    "asset": "Tablet",
+    "position": [
+      -1.15,
+      0.86,
+      -0.7
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "OfficeChair-221",
+    "asset": "OfficeChair",
+    "position": [
+      0.4,
+      0,
+      1.0
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "OfficeChair-222",
+    "asset": "OfficeChair",
+    "position": [
+      0.4,
+      0,
+      -1.57
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "Tablet-223",
+    "asset": "Tablet",
+    "position": [
+      0.4,
+      0.86,
+      0.12
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "Tablet-224",
+    "asset": "Tablet",
+    "position": [
+      0.4,
+      0.86,
+      -0.7
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "OfficeChair-225",
+    "asset": "OfficeChair",
+    "position": [
+      1.95,
+      0,
+      1.0
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "OfficeChair-226",
+    "asset": "OfficeChair",
+    "position": [
+      1.95,
+      0,
+      -1.57
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "Tablet-227",
+    "asset": "Tablet",
+    "position": [
+      1.95,
+      0.86,
+      0.12
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "Tablet-228",
+    "asset": "Tablet",
+    "position": [
+      1.95,
+      0.86,
+      -0.7
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "DeskPlant-229",
+    "asset": "DeskPlant",
+    "position": [
+      0,
+      0.849,
+      -0.28
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "Mug-230",
+    "asset": "Mug",
+    "position": [
+      -1.61,
+      0.843,
+      0.21
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "BookStack-231",
+    "asset": "BookStack",
+    "position": [
+      2.14,
+      0.85,
+      -0.3
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "MonitorWall-232",
+    "asset": "MonitorWall",
+    "position": [
+      2.05,
+      0,
+      -3.94
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "DGLogoPanel-233",
+    "asset": "DGLogoPanel",
+    "position": [
+      -2.39,
+      1.78,
+      -3.98
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "SideCabinet-234",
+    "asset": "SideCabinet",
+    "position": [
+      -4.72,
+      0,
+      -0.75
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "CoffeeMachine-235",
+    "asset": "CoffeeMachine",
+    "position": [
+      -4.72,
+      0.87,
+      -1.07
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "SloganPanel-236",
+    "asset": "SloganPanel",
+    "position": [
+      -5.27,
+      2.0,
+      -0.98
+    ],
+    "rotation": [
+      0,
+      1.5707963267948966,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "Bookcase-237",
+    "asset": "Bookcase",
+    "position": [
+      -4.63,
+      0,
+      -3.69
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "Planter-238",
+    "asset": "Planter",
+    "position": [
+      -4.72,
+      0,
+      1.18
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "Planter-239",
+    "asset": "Planter",
+    "position": [
+      -3.52,
+      0,
+      -3.6
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "Planter-240",
+    "asset": "Planter",
+    "position": [
+      4.84,
+      0,
+      -3.58
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "Planter-241",
+    "asset": "Planter",
+    "position": [
+      4.9,
+      0,
+      3.6
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "SessionFigure-242",
+    "asset": "SessionFigure",
+    "position": [
+      0.1,
+      0,
+      -2.6
+    ],
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "scale": 1
+  },
+  {
+    "id": "SessionFigure-243",
+    "asset": "SessionFigure",
+    "position": [
+      2.8,
+      0,
+      0.8
+    ],
+    "rotation": [
+      0,
+      3.141592653589793,
+      0
+    ],
+    "scale": 1
+  }
+]
