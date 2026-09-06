@@ -1,0 +1,12 @@
+{
+  "environment": "Chromium software renderer, mobile-sized viewport; NOT phone GPU FPS",
+  "rooms": [
+    {"room":"Lobby","fps":null,"frameMs":0,"p95Ms":0,"calls":132,"triangles":80520,"meshes":101,"textures":37,"dpr":1.75,"antialias":true},
+    {"room":"Research","fps":null,"frameMs":0,"p95Ms":0,"calls":114,"triangles":89952,"meshes":114,"textures":40,"dpr":1.75,"antialias":true},
+    {"room":"Meeting","fps":null,"frameMs":0,"p95Ms":0,"calls":136,"triangles":85228,"meshes":94,"textures":40,"dpr":1.75,"antialias":true},
+    {"room":"Corridor","fps":null,"frameMs":0,"p95Ms":0,"calls":82,"triangles":55960,"meshes":82,"textures":40,"dpr":1.75,"antialias":true}
+  ],
+  "tests":["Glass toggle","Wireframe toggle","Scale figures toggle","Frontage toggle","High resolves at DPR 2","camera reset","standalone component mode","no mobile horizontal overflow","instanced component picking retains ReceptionDesk identity","selected raw GLB export target preserved"],
+  "errors":[],
+  "notes":"Idle FPS is intentionally null. Draws can include a requested shadow refresh; this is not a GPU benchmark. Asset geometry was regenerated locally from the same generator source, not downloaded from a Vercel deployment. Visual testing does not establish reference-art parity."
+}
