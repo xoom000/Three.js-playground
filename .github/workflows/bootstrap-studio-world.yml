@@ -1,0 +1,30 @@
+name: Bootstrap Studio World
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - bootstrap/source.b64
+      - .github/workflows/bootstrap-studio-world.yml
+
+permissions:
+  contents: write
+
+jobs:
+  expand:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Expand source into normal repository files
+        run: |
+          base64 -d bootstrap/source.b64 > /tmp/studio-world.tgz
+          tar -xzf /tmp/studio-world.tgz -C .
+          rm -rf bootstrap
+          rm -f .github/workflows/bootstrap-studio-world.yml
+      - name: Commit expanded app
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Expand Digital Gnosis Studio World app"
+          git push
