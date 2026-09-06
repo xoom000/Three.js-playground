@@ -1,14 +1,3 @@
 node_modules/
 dist/
-public/models/
-public/*.json
-src/catalog.ts
-src/layouts.ts
-src/kit/index.ts
-src/kit/architecture/
-src/kit/furniture/
-src/kit/tech/
-src/kit/dressing/
-src/kit/scenes/*Scene.tsx
-!src/kit/scenes/RoomLayout.tsx
 .DS_Store
