@@ -1,0 +1,5 @@
+/* North-star pass: diagnostics must not obscure the room or the reset button. */
+.perf-hud{position:absolute;right:12px;bottom:55px;z-index:4;pointer-events:none;white-space:pre-line;padding:9px 11px;border:1px solid #29423d;border-radius:10px;background:#050b0ee8;color:#bdd1c8;font:10px/1.55 ui-monospace,monospace;max-width:calc(100% - 24px)}
+.perf-hud[data-idle="true"]:before{content:"IDLE · last active sample\a";color:#65c9a5;white-space:pre}
+.controls>.eyebrow:not(:first-child){margin-top:20px}
+@media(max-width:760px){.app .stage-tools{top:auto;bottom:44px;right:12px;z-index:5}.app .stage-caption small{display:none}.perf-hud{bottom:96px;font-size:9px}.app .gestures{left:12px;right:12px;text-align:center;white-space:normal;font-size:8px;line-height:1.4}}
