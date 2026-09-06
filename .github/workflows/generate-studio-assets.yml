@@ -1,0 +1,58 @@
+name: Generate Studio World assets
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - tools/build_assets.py
+      - tools/sync_components.py
+      - tools/requirements.txt
+      - .github/workflows/generate-studio-assets.yml
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install asset generator dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y fonts-dejavu-core
+          python -m pip install --disable-pip-version-check -r tools/requirements.txt
+
+      - name: Generate GLBs, textures, layouts, and R3F components
+        run: |
+          python tools/build_assets.py
+          python tools/sync_components.py
+
+      - name: Verify web build before publishing generated assets
+        run: |
+          npm install --no-audit --no-fund
+          npm run build:web
+
+      - name: Commit generated assets
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public src/catalog.ts src/layouts.ts src/kit
+          if git diff --cached --quiet; then
+            echo 'Generated assets already current.'
+            exit 0
+          fi
+          git commit -m 'Generate Studio World assets for Vercel'
+          git push origin HEAD:main
