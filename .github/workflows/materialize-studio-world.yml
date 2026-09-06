@@ -1,0 +1,30 @@
+name: Materialize Studio World source
+
+on:
+  push:
+    branches: [main]
+    paths: [bootstrap/READY]
+
+permissions:
+  contents: write
+
+jobs:
+  materialize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Reconstruct source archive
+        run: |
+          cat bootstrap/part-*.b64 | base64 -d > /tmp/studio-world.txz
+          echo 'dfe620969d8b75ff545efd2f798b1101d326785c06c7b68d744115d07736f771  /tmp/studio-world.txz' | sha256sum -c -
+          tar -xJf /tmp/studio-world.txz -C .
+          rm -rf bootstrap
+      - name: Commit materialized React Three Fiber app
+        run: |
+          git config user.name 'ChatGPT'
+          git config user.email 'noreply@openai.com'
+          git add -A
+          git commit -m 'Materialize modular React Three Fiber Studio World app'
+          git push origin HEAD:main
